@@ -1,0 +1,17 @@
+
+.SERVICE-CARD:hover{
+    background-color: #0d6efd;
+    color:#ffffff;
+}
+.SERVICE-CARD:hover svg path{
+    fill:#ffffff;
+}
+.food{
+    object-fit: cover;
+}
+
+@media screen and (min-width:768px){
+    .SERVICE-CARD{
+        height:20rem;
+    }
+}
