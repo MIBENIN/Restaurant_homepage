@@ -1,8 +1,5 @@
 # Maisonvee Restaurant Page
 
-![Maisonvee Restaurant](Dektop_Maison Vie.png)
-![Maisonvee Restaurant](Mobile_Maison Vie.png)
-
 This project is a part of my online frontend internship from Senchola University. I'm Benin S, and I built this restaurant page using Bootstrap 5, HTML, and CSS.
 
 ## Table of Contents
